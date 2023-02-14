@@ -1,3 +1,21 @@
 .App {
   text-align: center;
 }
+
+#page-title {
+  background-color: black;
+  color: yellow;
+  margin-top: 0px;
+}
+
+#button-container {
+  display: flex;
+  margin: 30px auto 0px auto;
+  justify-content: center;
+  gap: 40px;
+}
+
+#pageNumDiv {
+  color: yellow;
+  margin-top: 25px;
+}
